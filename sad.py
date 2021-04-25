@@ -9,7 +9,7 @@ except ImportError:
 
 banner = """
 
-Author : SNI-I Gans
+Author : SNI-IT Gans
 Date   : 2021-04-23
 Tools  : D.A.S V.1.0
 Github : -
